@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploration and coding
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on android development
-- 📫 How to reach me email:manish2310pande@gmail.com
+- 📫 How to reach me email:manish2310pandey@gmail.com
 
 <!---
 Manish2000-student/Manish2000-student is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
